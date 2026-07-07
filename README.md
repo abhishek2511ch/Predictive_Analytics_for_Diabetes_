@@ -4,4 +4,14 @@ This project focuses on predicting the likelihood of diabetes using machine lear
 
 During the analysis, I found that Glucose has the strongest relationship with diabetes, followed by BMI, Age, and Pregnancies. Since some medical attributes contained impossible values (such as 0 for Blood Pressure, BMI, and Glucose), these were treated as missing values and cleaned before model training.
 
+What this project includes:
+Data cleaning and preprocessing
+Handling missing and invalid values
+Exploratory Data Analysis (EDA)
+Outlier detection using box plots
+Correlation analysis and feature understanding
+Data visualization with Matplotlib and Seaborn
+Machine learning model development for diabetes prediction
+Model evaluation using standard classification metrics
+
 This project helped me understand how proper data preprocessing directly impacts model performance. It also improved my skills in feature analysis, handling real-world healthcare data, and building an end-to-end machine learning pipeline.
